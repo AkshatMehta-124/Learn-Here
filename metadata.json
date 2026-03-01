@@ -1,0 +1,7 @@
+{
+  "name": "Learn Here",
+  "description": "AI-powered language learning platform with gamification, lessons, and AI conversation practice.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
